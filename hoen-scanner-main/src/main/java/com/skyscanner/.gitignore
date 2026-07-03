@@ -1,0 +1,5 @@
+target/
+*.png
+*.pdf
+*.wav
+.idea/
