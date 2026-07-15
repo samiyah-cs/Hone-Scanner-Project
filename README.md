@@ -4,3 +4,10 @@ Search API Implementation
 * Designed and implemented Search and SearchResult data models for JSON request and response mapping.
 * Built the SearchResource component to load, merge, and filter local JSON datasets (hotels.json and rental_cars.json) based on the requested city.
 * Validated the application locally, ensuring accurate filtered results and a successful project build (BUILD SUCCESS).
+
+
+## UI Design Prototypes
+You can view the design prototypes created in Figma here:
+![Campaign UI](path/to/your/image1.png)
+![Analytics UI](path/to/your/image2.png)
+![Survey UI](path/to/your/image3.png)
