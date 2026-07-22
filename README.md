@@ -8,6 +8,6 @@ Search API Implementation
 
 ## UI Design Prototypes
 You can view the design prototypes created in Figma here:
-![Campaign UI](campaign.png)
-![Analytics UI](analytics.png)
-![Survey UI](survey.png)
+![Campaign UI](Frame1.png)
+![Analytics UI](Frame2.png)
+![Survey UI](Frame3.png)
